@@ -26,6 +26,7 @@ public class EthServiceImpl implements EthService{
 
             ethResultDto.setData(wallet);
 
+            log.info("plz doit");
 
 
         } catch (Exception e ) {
