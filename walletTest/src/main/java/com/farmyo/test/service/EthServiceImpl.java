@@ -28,6 +28,8 @@ public class EthServiceImpl implements EthService{
 
             log.info("is it ok??");
 
+            log.info("please do it!!");
+
         } catch (Exception e ) {
             System.out.println(e);
             ethResultDto.setStatus("404");
