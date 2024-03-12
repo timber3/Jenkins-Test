@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.farmyo.test.TestApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-03-12T15:30:48" hostname="DESKTOP-L6CFEFA" time="0.649">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.farmyo.test.TestApplicationTests" time="0.649"/>
+  <system-out><![CDATA[00:30:47.103 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.farmyo.test.TestApplicationTests]: TestApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+00:30:47.195 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.farmyo.test.TestApplication for test class com.farmyo.test.TestApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.3)
+
+2024-03-13T00:30:47.552+09:00  INFO 25788 --- [    Test worker] com.farmyo.test.TestApplicationTests     : Starting TestApplicationTests using Java 17.0.1 with PID 25788 (started by user in C:\Users\user\Desktop\jenkins-test\Jenkins-Test\walletTest)
+2024-03-13T00:30:47.553+09:00  INFO 25788 --- [    Test worker] com.farmyo.test.TestApplicationTests     : No active profile set, falling back to 1 default profile: "default"
+2024-03-13T00:30:48.536+09:00  INFO 25788 --- [    Test worker] com.farmyo.test.TestApplicationTests     : Started TestApplicationTests in 1.195 seconds (process running for 2.318)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
